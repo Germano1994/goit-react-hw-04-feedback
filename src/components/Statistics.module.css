@@ -1,0 +1,19 @@
+.statistics {
+ 
+    padding: 20px;
+    text-align: left;
+  }
+  
+  .statItem {
+    margin: 10px;
+  }
+  
+  .statLabel {
+    font-weight: bold;
+  }
+  
+  .statValue {
+    color: red;
+    font-weight: bold;
+  }
+  
